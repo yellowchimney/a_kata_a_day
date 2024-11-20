@@ -1,8 +1,10 @@
 from src.string_time import make_readable
 
+
 def test_returns_a_string():
     result = make_readable(1)
-    assert isinstance (result, str)
+    assert isinstance(result, str)
+
 
 def test_returns_correct_output():
     assert make_readable(1) == "00:00:01"

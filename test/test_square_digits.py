@@ -1,5 +1,6 @@
 from src.square_digits import square_digits
 
+
 class TestSquareDigits:
     def test_returns_integer(self):
         result = square_digits(1)

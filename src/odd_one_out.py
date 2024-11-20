@@ -1,10 +1,11 @@
-'''The function takes a list of integers, entirely comprised either of odd or even numbers,
+"""The function takes a list of integers, entirely comprised either of odd or even numbers,
    ecxept for one integer, which will be a misfit. The function sorts through the list
-   and returns the misfit integer'''
+   and returns the misfit integer"""
+
 
 def find_outlier(integers):
     counter_odd = {}
-    counter_even ={}
+    counter_even = {}
     for i in integers:
         if i % 2 == 1:
             counter_odd[i] = 1
