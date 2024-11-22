@@ -1,4 +1,4 @@
-Welome to a kata a day repo.
+## Welome to a kata a day repo.
 
 I've taken on a personal challenge of solving 1 kata a day.
 The katas are kindly provided by codewars.com, takeuforward.org 
@@ -16,3 +16,5 @@ The katas that come from codewars don't have any testing bc test suite is provid
 4.[People_on_the_bus](src/people_in_the_bus.py) - counts how many people are on the bus after the last stop.
 
 5.[Convert_to_Roman_numerals](src/roman_numbers.py) - takes a number and converts it into Roman numeral string.
+
+6.[Sum_consecutive_duplicate_numbers](src/sum_consecutive_duplicates.py) - recursively sums up all consecutive duplicates in the list.
