@@ -18,3 +18,5 @@ The katas that come from codewars don't have any testing bc test suite is provid
 5.[Convert_to_Roman_numerals](src/roman_numbers.py) - takes a number and converts it into Roman numeral string.
 
 6.[Sum_consecutive_duplicate_numbers](src/sum_consecutive_duplicates.py) - recursively sums up all consecutive duplicates in the list.
+
+7.[Count_streets](src/count_streets.py) - counts the distance between the streets each driver has to travel.

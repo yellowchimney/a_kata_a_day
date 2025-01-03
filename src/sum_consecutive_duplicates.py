@@ -1,3 +1,7 @@
+"""
+Function takes a list of numbers and returns a list of numbers 
+where each number is the sum of all consecutive duplicates.
+"""
 def sum_consecutive_duplicates(lst):
     if not lst:
         return []
@@ -16,7 +20,10 @@ def sum_consecutive_duplicates(lst):
 
     return result_list
 
-
+"""
+Recursively sums up all consecutive duplicates in the list 
+until no consecutive duplicates are left.
+"""
 def reduce_consecutiveness(lst):
     reduced_list = sum_consecutive_duplicates(lst)
     if reduced_list == lst:
