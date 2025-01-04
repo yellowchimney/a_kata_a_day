@@ -20,3 +20,6 @@ The katas that come from codewars don't have any testing bc test suite is provid
 6.[Sum_consecutive_duplicate_numbers](src/sum_consecutive_duplicates.py) - recursively sums up all consecutive duplicates in the list.
 
 7.[Count_streets](src/count_streets.py) - counts the distance between the streets each driver has to travel.
+
+8.[Find_valid_ip_address](src/find_valid_ipaddress.py) - checks if a given string is a valid IPv4 address.
+
