@@ -27,3 +27,4 @@ The katas that come from codewars don't have any testing bc test suite is provid
 
 10.[Parse_integer](src/parse_integer.py) - converts a string of words into an integer.
 
+11.[Decode_morse](src/decode_morse.py) - converts a string of dots and dashes into a string of words.

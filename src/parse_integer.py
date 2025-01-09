@@ -1,5 +1,8 @@
 import re
-
+"""
+Function takes a string representing a number (two hundred and thirty-four) 
+and converts it to an integer (234). Works for numbers between 0 and 1 million.
+"""
 def parse_int(string):
     number_mapping = {
         'zero': 0, 'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5, 
