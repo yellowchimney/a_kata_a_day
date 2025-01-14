@@ -30,3 +30,5 @@ The katas that come from codewars don't have any testing bc test suite is provid
 11.[Decode_morse](src/decode_morse.py) - converts a string of dots and dashes into a string of words.
 
 12.[List_squared](src/list_squared.py) - checks which numbers in the range return perfect squares for the sum of their divisors.
+
+13.[Sum_sub_arrays](src/sum_sub_arrays.py) - finds the largest sum of a subarray.
