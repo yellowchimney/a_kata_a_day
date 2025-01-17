@@ -32,3 +32,9 @@ The katas that come from codewars don't have any testing bc test suite is provid
 12.[List_squared](src/list_squared.py) - checks which numbers in the range return perfect squares for the sum of their divisors.
 
 13.[Sum_sub_arrays](src/sum_sub_arrays.py) - finds the largest sum of a subarray.
+
+14.[Find_min_number](src/find_min_number.py) - finds the smallest positive integer that is not in the array.
+
+15.[Ocado](src/ocado.py) - finds the minimum number of weeks that are represented in the array.
+
+16.[Ocado2](src/ocado2.py) - finds the minimum time it takes to attach all details to the car.
