@@ -38,3 +38,7 @@ The katas that come from codewars don't have any testing bc test suite is provid
 15.[Ocado](src/ocado.py) - finds the minimum number of weeks that are represented in the array.
 
 16.[Ocado2](src/ocado2.py) - finds the minimum time it takes to attach all details to the car.
+
+17.[Makers_exercise](src/makers_exercise.py) - finds the minimum number of weeks that are represented in the array.
+
+18.[Decode_morse](src/decode_morse.py) - updated with part 2, decoding binary srting to morse code.
