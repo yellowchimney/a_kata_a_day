@@ -44,3 +44,5 @@ The katas that come from codewars don't have any testing bc test suite is provid
 18.[Decode_morse](src/decode_morse.py) - updated with part 2, decoding binary srting to morse code.
 
 19.[Caesars_cypher](src/caesars_cypher.py) - decrypts a message using a Caesar cypher, as a bonus, it also encrypts a message using a Caesar cypher.
+
+20.[Remove_values](src/remove_values.py) - removes a value from an array and returns the length of the array.
