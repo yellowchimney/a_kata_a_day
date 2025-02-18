@@ -48,3 +48,5 @@ The katas that come from codewars don't have any testing bc test suite is provid
 20.[Remove_values](src/remove_values.py) - removes a value from an array and returns the length of the array.
 
 21.[Merge_arrays](src/merge_arrays.py) - merges two arrays into a single array in place.
+
+22.[Vigenere_cypher](src/vigenere_cypher.py) - encodes and decodes a message using a Vigenère cypher.
