@@ -50,3 +50,5 @@ The katas that come from codewars don't have any testing bc test suite is provid
 21.[Merge_arrays](src/merge_arrays.py) - merges two arrays into a single array in place.
 
 22.[Vigenere_cypher](src/vigenere_cypher.py) - encodes and decodes a message using a Vigenère cypher.
+
+23.[Frequent_words_finder](src/frequent_words_finder.py) - finds the top 3 most frequent words in a text.
